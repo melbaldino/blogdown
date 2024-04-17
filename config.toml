@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/404-bg.jpg"
+  header_image = "img/DSC05064.JPG"
   SEOTitle = "Mel Baldino Blog"
   description = ""
   keyword = ""
