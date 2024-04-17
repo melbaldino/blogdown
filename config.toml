@@ -3,7 +3,7 @@ title = "Mel Baldino"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+#disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/DSC05064.JPG"
+  header_image = "img/404-bg.jpg"
   SEOTitle = "Mel Baldino Blog"
   description = ""
   keyword = ""
@@ -48,18 +48,18 @@ home = ["HTML", "RSS", "Algolia"]
   
   # We need a proxy to access Disqus api in China
   # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
-  disqus_proxy = ""
-  disqus_site = ""
+  #disqus_proxy = ""
+  #disqus_site = ""
 
   # Twikoo comments
   # Follow https://twikoo.js.org/ to set up your own env_id
-  twikoo_env_id = ""
+  #twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  #reward = true 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
